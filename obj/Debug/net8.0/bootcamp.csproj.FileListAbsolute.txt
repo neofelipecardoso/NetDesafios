@@ -1,0 +1,14 @@
+C:\Users\Pichau\Downloads\bootcamp\bin\Debug\net8.0\bootcamp.exe
+C:\Users\Pichau\Downloads\bootcamp\bin\Debug\net8.0\bootcamp.deps.json
+C:\Users\Pichau\Downloads\bootcamp\bin\Debug\net8.0\bootcamp.runtimeconfig.json
+C:\Users\Pichau\Downloads\bootcamp\bin\Debug\net8.0\bootcamp.dll
+C:\Users\Pichau\Downloads\bootcamp\bin\Debug\net8.0\bootcamp.pdb
+C:\Users\Pichau\Downloads\bootcamp\obj\Debug\net8.0\bootcamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Downloads\bootcamp\obj\Debug\net8.0\bootcamp.AssemblyInfoInputs.cache
+C:\Users\Pichau\Downloads\bootcamp\obj\Debug\net8.0\bootcamp.AssemblyInfo.cs
+C:\Users\Pichau\Downloads\bootcamp\obj\Debug\net8.0\bootcamp.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Downloads\bootcamp\obj\Debug\net8.0\bootcamp.dll
+C:\Users\Pichau\Downloads\bootcamp\obj\Debug\net8.0\refint\bootcamp.dll
+C:\Users\Pichau\Downloads\bootcamp\obj\Debug\net8.0\bootcamp.pdb
+C:\Users\Pichau\Downloads\bootcamp\obj\Debug\net8.0\bootcamp.genruntimeconfig.cache
+C:\Users\Pichau\Downloads\bootcamp\obj\Debug\net8.0\ref\bootcamp.dll
